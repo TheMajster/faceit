@@ -1,1 +1,6 @@
-{ "users" : ["themajster3", "somestring2"] }
+{
+  "users": [
+    "themajster3",
+    "somestring2"
+  ]
+}
